@@ -7,7 +7,7 @@ Site de hospedagem de domínios, com foco em layout, estruturação e responsivi
 ## 📑 Índice
 
 - [Funcionalidades](#-funcionalidades)  
-- [Tecnologias](#-tecnologias)  
+- [Tecnologias](#tecnologias)  
 - [Conteúdo do Projeto](#-conteúdo-do-projeto)  
 - [Contexto](#-contexto)  
 
