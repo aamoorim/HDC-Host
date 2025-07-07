@@ -1,43 +1,31 @@
-# 🌿 hDC Host
+<h1 align="center"> hDC Host </h1>
 
-Site de hospedagem de domínios, com foco em layout, estruturação e responsividade.
+<p align="center">
+Projeto feito no curso de Formação Front-End do Matheus Battisti na Udemy.
+</p>
 
----
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-## 📑 Índice
+<br>
 
-- [Funcionalidades](#-funcionalidades)  
-- [Tecnologias](#tecnologias)  
-- [Conteúdo do Projeto](#-conteúdo-do-projeto)  
-- [Contexto](#-contexto)  
+<p align="center">
+  <img alt="projeto hDC Host" src="/.github/preview.jpg" width="100%">
+</p>
 
----
+## 🚀 Tecnologias
 
-## ✨ Funcionalidades
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Apresentação de serviços e planos  
-- Formulário de contato e formulário de verificação de disponibilidade de domínio (estáticos)  
-- Layout responsivo  
-- Visual moderno e profissional  
+- HTML e CSS
+- JavaScript
+- Git e Github
 
----
+## 💻 Projeto
 
-## ⚙️ Tecnologias
+O hDC Host é um site de uma empresa que fornece serviços de hospedagem de domínios de maneira profissional e com um visual moderno.
 
-- HTML5 (uso de classes e IDs)  
-- CSS3 (estilização, flexbox e media queries)  
 
----
-
-## 🧱 Conteúdo do Projeto
-
-- Estrutura semântica em HTML  
-- Organização com classes e IDs  
-- Estilização e responsividade via CSS  
-
----
-
-## 🎓 Contexto
-
-Projeto desenvolvido como exercício prático no curso de Formação Front-End do Matheus Battisti na Udemy para fortalecer fundamentos de HTML e CSS.
-OBS: Fiz algumas alterações para que o projeto se adequasse ao meu gosto pessoal.
+Feito com ♥ by Matheus Battisti e adaptado para @aamoorim
