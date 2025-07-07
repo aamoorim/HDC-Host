@@ -12,7 +12,7 @@ Projeto feito no curso de Formação Front-End do Matheus Battisti na Udemy.
 <br>
 
 <p align="center">
-  <img alt="projeto hDC Host" src="/.github/preview.jpg" width="100%">
+  <img alt="projeto hDC Host" src="/.github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
